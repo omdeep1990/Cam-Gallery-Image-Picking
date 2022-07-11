@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Send Data Project</string>
+    <string name="your_first_name">Enter Your First Name!!</string>
+    <string name="your_employee_id">Enter Your Employee Id!!</string>
+    <string name="your_last_name">Enter Your Last Name!!</string>
+    <string name="send_data">Send Data</string>
+    <string name="your_address">Enter Your Address!!</string>
+    <string name="go_back">Go Back</string>
+    <string name="camera">Camera</string>
+    <string name="cancel">Cancel</string>
+    <string name="gallery">Gallery</string>
+</resources>
